@@ -1,0 +1,112 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: rgb(222, 219, 219);
+   
+}
+header{
+    
+    background-color:rgb(12, 0, 148);
+    padding: 20px;
+    color: white;
+    text-align: center;
+    letter-spacing: 10px;
+    font-weight: bold;
+    
+}
+
+span.Ass{
+    color: Red;
+}
+
+span.cover{
+    color: yellow;
+}
+h4{
+   
+    font-size: 30px;
+}
+
+nav.home{
+ text-align: center;
+    background-color: #00a6bc;
+    color: white;
+    padding: 10px;
+    font-size: small;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+   
+}
+
+ nav.home a{
+    text-align: center;
+color: white;
+text-decoration: none;
+align-items: center;
+margin: 10px;
+padding: 10px;
+ }
+
+ nav.home a:hover{
+   
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;   
+    background-color: #eb00f3;
+    border-radius: 10px;
+    
+}
+
+
+
+h3{
+    font-size: 20px;
+    background-color: #00a6bc;
+    color: white;
+    border: 3px solid  lightblue;
+
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.Page1{
+    background-color: whitesmoke;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5%;
+    
+}
+
+.Page1:hover{
+background-color: #00a6bcd3;
+ border: 3px solid green;
+}
+button {
+  float: left;
+  background-color: rgb(0, 0, 115); 
+  color: white; 
+  margin-left: 45px;
+  padding: 5px;
+  border-radius: 10%;
+  border: 1px solid lightblue;
+  text-decoration: none;
+  text-align: center;
+  
+}
+
+p{
+    text-align: center;
+    
+}
+
+.Page1 img{
+    box-sizing: border-box;
+    width: 400px;
+    margin: 10px;
+    
+    padding: 05px;
+}
+
